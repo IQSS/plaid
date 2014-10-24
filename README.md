@@ -1,6 +1,12 @@
 plaid
 =====
 
-Platform for Lightweight Applications from IQSS Data Science
+#Platform for 
+#Lightweight 
+#Applications from 
+#IQSS 
+#Data Science
+
+
 
 
